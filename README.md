@@ -57,5 +57,10 @@ Editorial Maipué (2015-2018)
     SEO y Marketing Digital: Google Analytics, Google Search Console, Google Tag Manager, Meta Business, Google Ads
     Desarrollo Web: HTML, CSS, Java, JavaScript, React, MySQL, JQuery, Maven, Git
 
+No dudes en contactarme para colaboraciones, consultas o simplemente para charlar. ¡Nos vemos por Discord!
+
+📧 Correo: noeliasabraham@gmail.com
+📍 Ubicación: Caballito, CABA, Argentina
+
 
 
