@@ -61,7 +61,7 @@ No dudes en contactarme para colaboraciones, consultas o simplemente para charla
 
 📧 Correo: noeliasabraham@gmail.com
 📍 Ubicación: Caballito, CABA, Argentina
- https://www.linkedin.com/in/noelia-abraham/
+📧Linkedin: https://www.linkedin.com/in/noelia-abraham/
 
 
 
