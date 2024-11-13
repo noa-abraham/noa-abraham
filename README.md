@@ -1,6 +1,6 @@
 ## Hola, soy Noe Abraham 👋
 
-👋 Bienvenid@ a mi perfil de Discord. Aquí te comparto un poco sobre mí, mi trayectoria profesional, y en qué ando últimamente.
+👋 Bienvenid@ a mi perfil. Aquí te comparto un poco sobre mí, mi trayectoria profesional, y en qué ando últimamente.
 
 🎓 00. PRESENTACIÓN
 
@@ -61,6 +61,7 @@ No dudes en contactarme para colaboraciones, consultas o simplemente para charla
 
 📧 Correo: noeliasabraham@gmail.com
 📍 Ubicación: Caballito, CABA, Argentina
+ https://www.linkedin.com/in/noelia-abraham/
 
 
 
