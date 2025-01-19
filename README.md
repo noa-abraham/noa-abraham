@@ -45,30 +45,31 @@ TERCIARIOS
 
 ### 💼 03. EXPERIENCIA PROFESIONAL
 
-ANALISTA DE SISTEMAS
-Profesional independiente (2022-2024)
+    ANALISTA DE SISTEMAS
+    Profesional independiente (2022-2024)
         Consultorías y asesoramiento en estrategias de marketing digital, incluyendo SEO.
         Diseño e implementación de soluciones técnicas y metodologías de trabajo.
         Colaboración con equipos multidisciplinarios para la optimización de procesos.
 
-CONSULTORA DE MARKETING DIGITAL & UX WRITER
-Profesional independiente (2020-2024)
+    CONSULTORA DE MARKETING DIGITAL & UX WRITER
+    Profesional independiente (2020-2024)
         Creación y optimización de contenidos, diseño de storytelling, y elaboración de guías de voz y tono.
         Estrategias de posicionamiento SEO y manejo de herramientas como Google Analytics, Search Console, y Tag Manager.
 
-ASISTENTE DE EDICIÓN
-Editorial Maipué (2015-2018)
+    ASISTENTE DE EDICIÓN
+    Editorial Maipué (2015-2018)
         Co-desarrollo de colecciones de libros de texto para primaria y secundaria.
         Planificación, comunicación, y asistencia a autores, diseñadores, y departamento de ventas.
         Revisión y corrección orto-tipográfica y de estilo.
 
+
 ### 🛠️ 04. HERRAMIENTAS Y TECNOLOGÍAS
 
-    Metodologías Ágiles
-    Diseño Gráfico: Figma, Canva, Illustrator, Photoshop
-    SEO y Marketing Digital: Google Analytics, Google Search Console, Google Tag Manager, Meta Business, Google Ads
-    Desarrollo Web: HTML, CSS, Java, JavaScript, React, MySQL, JQuery, Maven, Git
-    PLN: Python, Jupyter, Pandas, Numpy, y NLTK
+        Metodologías Ágiles
+        Diseño Gráfico: Figma, Canva, Illustrator, Photoshop
+        SEO y Marketing Digital: Google Analytics, Google Search Console, Google Tag Manager, Meta Business, Google Ads
+        Desarrollo Web: HTML, CSS, Java, JavaScript, React, MySQL, JQuery, Maven, Git
+        PLN: Python, Jupyter, Pandas, Numpy, y NLTK
 
 No dudes en contactarme para colaboraciones, consultas o simplemente para charlar. ¡Nos vemos por Discord!
 
