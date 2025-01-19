@@ -1,10 +1,21 @@
-## Hola, soy Noe Abraham 👋
+## De las Letras al Lenguaje Computacional: Mi Camino hacia la Ciencia de Datos y NLP
 
-👋 Bienvenid@ a mi perfil. Aquí te comparto un poco sobre mí, mi trayectoria profesional, y en qué ando últimamente.
+👋 Hola! Soy Noe Abraham. Bienvenid@ a mi perfil. Aquí te comparto un poco sobre mí, mi trayectoria profesional, y en qué ando últimamente.
 
 🎓 00. PRESENTACIÓN
 
-Soy Licenciada en Letras, especializada en Lingüística y UX Writing. Actualmente, estoy cursando el segundo año de la Tecnicatura Superior en Análisis de Sistemas. He trabajado con equipos de diseñadores y programadores, enfocándome en la creación, diseño, y optimización de interacciones entre usuarios y plataformas digitales. Este último tiempo estuve haciendo proyectos con React. 
+Hola, soy Noe Abraham, Licenciada y Profesora en Letras por la UBA, con experiencia en el análisis profundo del lenguaje humano. Mi trayectoria me ha llevado desde las aulas, donde enseñaba Literatura, hasta el mundo digital, colaborando con pequeñas y medianas empresas en estrategias de comunicación, SEO, y redes sociales. Estoy cursando el segundo año de la Tecnicatura Superior en Análisis de Sistemas. He trabajado con equipos de diseñadores y programadores, enfocándome en la creación, diseño, y optimización de interacciones entre usuarios y plataformas digitales. 
+
+Actualmente, estoy en un emocionante proceso de transformación profesional hacia la Ciencia de Datos y Procesamiento del Lenguaje Natural (NLP), un campo que une mi pasión por las palabras con la potencia de la tecnología. ExploraNDO de herramientas claves como: Python, Jupyter, Pandas, Numpy, y NLTK.Mis objetivos profesionales son: 
+
+Convertirme en desarrolladora y analista en proyectos de NLP y Machine Learning.
+Crear soluciones tecnológicas que faciliten la interacción humano-computadora a través del lenguaje.
+Contribuir a proyectos de impacto, desde análisis de sentimientos en redes sociales hasta sistemas avanzados de recomendación de contenido.
+
+¿POR QUÉ NLP?
+
+Mi formación en literatura y lingüística me brinda una perspectiva única para comprender las estructuras y matices del lenguaje. Ahora, estoy aplicando estos conocimientos en el ámbito computacional, explorando cómo los algoritmos pueden interpretar y generar lenguaje humano.
+Estoy convencida de que mis habilidades en el análisis crítico, junto con mi creciente conocimiento técnico, pueden aportar valor en proyectos relacionados con el análisis de datos, minería de texto y desarrollo de modelos de aprendizaje automático (ML).
 
 📚 01. ESTUDIOS REALIZADOS y TÍTULOS OBTENIDOS/EN CURSO
 UNIVERSITARIOS
