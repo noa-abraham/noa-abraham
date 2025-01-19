@@ -12,7 +12,7 @@ Convertirme en desarrolladora y analista en proyectos de NLP y Machine Learning.
 Crear soluciones tecnológicas que faciliten la interacción humano-computadora a través del lenguaje.
 Contribuir a proyectos de impacto, desde análisis de sentimientos en redes sociales hasta sistemas avanzados de recomendación de contenido.
 
-¿POR QUÉ NLP?
+###¿POR QUÉ NLP?
 
 Mi formación en literatura y lingüística me brinda una perspectiva única para comprender las estructuras y matices del lenguaje. Ahora, estoy aplicando estos conocimientos en el ámbito computacional, explorando cómo los algoritmos pueden interpretar y generar lenguaje humano.
 Estoy convencida de que mis habilidades en el análisis crítico, junto con mi creciente conocimiento técnico, pueden aportar valor en proyectos relacionados con el análisis de datos, minería de texto y desarrollo de modelos de aprendizaje automático (ML).
