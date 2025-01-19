@@ -17,7 +17,8 @@ Contribuir a proyectos de impacto, desde análisis de sentimientos en redes soci
 Mi formación en literatura y lingüística me brinda una perspectiva única para comprender las estructuras y matices del lenguaje. Ahora, estoy aplicando estos conocimientos en el ámbito computacional, explorando cómo los algoritmos pueden interpretar y generar lenguaje humano.
 Estoy convencida de que mis habilidades en el análisis crítico, junto con mi creciente conocimiento técnico, pueden aportar valor en proyectos relacionados con el análisis de datos, minería de texto y desarrollo de modelos de aprendizaje automático (ML).
 
-📚 01. ESTUDIOS REALIZADOS y TÍTULOS OBTENIDOS/EN CURSO
+
+### 📚 01. ESTUDIOS REALIZADOS y TÍTULOS OBTENIDOS/EN CURSO
 UNIVERSITARIOS
 
     Lic. en Letras y Prof. en Enseñanza Media y Superior en Letras
@@ -42,7 +43,7 @@ TERCIARIOS
     IT Essentials
         Cisco Networking Academy | Marzo 2021
 
-💼 03. EXPERIENCIA PROFESIONAL
+### 💼 03. EXPERIENCIA PROFESIONAL
 
 ANALISTA DE SISTEMAS
 Profesional independiente (2022-2024)
@@ -61,12 +62,13 @@ Editorial Maipué (2015-2018)
         Planificación, comunicación, y asistencia a autores, diseñadores, y departamento de ventas.
         Revisión y corrección orto-tipográfica y de estilo.
 
-🛠️ 04. HERRAMIENTAS Y TECNOLOGÍAS
+### 🛠️ 04. HERRAMIENTAS Y TECNOLOGÍAS
 
     Metodologías Ágiles
     Diseño Gráfico: Figma, Canva, Illustrator, Photoshop
     SEO y Marketing Digital: Google Analytics, Google Search Console, Google Tag Manager, Meta Business, Google Ads
     Desarrollo Web: HTML, CSS, Java, JavaScript, React, MySQL, JQuery, Maven, Git
+    PLN: Python, Jupyter, Pandas, Numpy, y NLTK
 
 No dudes en contactarme para colaboraciones, consultas o simplemente para charlar. ¡Nos vemos por Discord!
 
