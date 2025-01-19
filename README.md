@@ -2,7 +2,7 @@
 
 👋 Hola! Soy Noe Abraham. Bienvenid@ a mi perfil. Aquí te comparto un poco sobre mí, mi trayectoria profesional, y en qué ando últimamente.
 
-🎓 00. PRESENTACIÓN
+### 🎓 00. PRESENTACIÓN
 
 Hola, soy Noe Abraham, Licenciada y Profesora en Letras por la UBA, con experiencia en el análisis profundo del lenguaje humano. Mi trayectoria me ha llevado desde las aulas, donde enseñaba Literatura, hasta el mundo digital, colaborando con pequeñas y medianas empresas en estrategias de comunicación, SEO, y redes sociales. Estoy cursando el segundo año de la Tecnicatura Superior en Análisis de Sistemas. He trabajado con equipos de diseñadores y programadores, enfocándome en la creación, diseño, y optimización de interacciones entre usuarios y plataformas digitales. 
 
