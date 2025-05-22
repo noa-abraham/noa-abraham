@@ -1,81 +1,81 @@
-## De las Letras al Lenguaje Computacional: Mi Camino hacia la Ciencia de Datos y NLP
+# 👩‍💻 Noe Abraham – Comunicación Digital & Desarrollo Web
 
-👋 Hola! Soy Noe Abraham. Bienvenid@ a mi perfil. Aquí te comparto un poco sobre mí, mi trayectoria profesional, y en qué ando últimamente.
+¡Hola! Soy Noe Abraham. Vengo de las Letras, me formé en análisis de sistemas y hoy me muevo con soltura entre palabras y código. Trabajo en el cruce entre la comunicación digital y el desarrollo web,
+creando experiencias claras, accesibles y funcionales para usuarios reales.
 
-### 🎓 00. PRESENTACIÓN
+## 📌 Qué hago
 
-    Hola, soy Noe Abraham, Licenciada y Profesora en Letras por la UBA, con experiencia en el análisis profundo del lenguaje humano. Mi trayectoria me ha llevado desde las aulas, donde enseñaba Literatura, hasta el mundo digital, colaborando con pequeñas y medianas empresas en estrategias de comunicación, SEO, y redes sociales. Estoy cursando el segundo año de la Tecnicatura Superior en Análisis de Sistemas. He trabajado con equipos de diseñadores y programadores, enfocándome en la creación, diseño, y optimización de interacciones entre usuarios y plataformas digitales. 
+- Desarrollo sitios web responsivos con foco en UX (HTML, CSS, JS, React)
+- Diseño estrategias de comunicación digital orientadas a usuarios
+- Redacto contenido técnico, guías, microcopy y storytelling UX
+- Implemento mejoras SEO, analítica y posicionamiento orgánico
+- Coordino proyectos con equipos interdisciplinarios: diseño, programación y contenidos
 
-    Actualmente, estoy en un emocionante proceso de transformación profesional hacia la Ciencia de Datos y Procesamiento del Lenguaje Natural (NLP), un campo que une mi pasión por las palabras con la potencia de la tecnología. ExploraNDO de herramientas claves como: Python, Jupyter, Pandas, Numpy, y NLTK.Mis objetivos profesionales son: 
+---
 
-        Convertirme en desarrolladora y analista en proyectos de NLP y Machine Learning.
-        Crear soluciones tecnológicas que faciliten la interacción humano-computadora a través del lenguaje.
-        Contribuir a proyectos de impacto, desde análisis de sentimientos en redes sociales hasta sistemas avanzados de recomendación de contenido.
+## 🎓 Formación
 
-### ¿POR QUÉ NLP?
+**Licenciada y Profesora en Letras – UBA**  
+2016 – 2022 | Universidad de Buenos Aires  
+_Especialización en narrativa digital, textualidades contemporáneas y prácticas de lectura._
 
-    Mi formación en literatura y lingüística me brinda una perspectiva única para comprender las estructuras y matices del lenguaje. Ahora, estoy aplicando estos conocimientos en el ámbito computacional, explorando cómo los algoritmos pueden interpretar y generar lenguaje humano.
-    Estoy convencida de que mis habilidades en el análisis crítico, junto con mi creciente conocimiento técnico, pueden aportar valor en proyectos relacionados con el análisis de datos, minería de texto y desarrollo de modelos de aprendizaje automático (ML).
+**Tecnicatura Superior en Análisis de Sistemas – IFTS N.º 16**  
+2022 – En curso (13/30 materias aprobadas)  
+_Formación en desarrollo de software, bases de datos, programación orientada a objetos._
 
+---
 
-### 📚 01. ESTUDIOS REALIZADOS y TÍTULOS OBTENIDOS/EN CURSO
-UNIVERSITARIOS
+## 🧠 Cursos Relevantes
 
-    Lic. en Letras y Prof. en Enseñanza Media y Superior en Letras
-        Facultad de Filosofía y Letras, Universidad de Buenos Aires (UBA)
-        2016-2022 | Graduada
+- Oracle + Alura Latam:  *Java OOP*
+- OpenBootCamp: *Git y Control de Versiones*
+- Cisco: *IT Essentials*
 
-TERCIARIOS
+---
 
-    Téc. Sup. en Análisis de Sistemas
-        IFTS N° 16
-        13/30 materias aprobadas
-        2022 - En curso
+## 💼 Experiencia Destacada
 
-🎓 02. CURSOS
+**Consultora UX & Comunicación Digital**  
+_Freelance | 2020–2024_  
+- UX writing, diseño de voz y tono, y arquitectura de información  
+- Posicionamiento SEO con herramientas como GA, Search Console y Tag Manager
 
-    Formación Business Agility G4 – Oracle
-        Alura Latam | 26 horas | Febrero 2023
-    Formación JAVA Orientado a Objetos – Oracle
-        Alura Latam | Marzo 2023
-    Certificación en Git para Control de Versiones
-        Open BootCamp | Julio 2022
-    IT Essentials
-        Cisco Networking Academy | Marzo 2021
+**Desarrolladora Web Jr.**  
+_Proyectos freelance | 2022–2024_  
+- Maquetado y desarrollo de interfaces responsivas  
+- Diseño colaborativo con equipos de diseño gráfico y UX/UI  
+- Uso de React, JavaScript, HTML5/CSS3, Git
 
-### 💼 03. EXPERIENCIA PROFESIONAL
+**Asistente Editorial**  
+_Editorial Maipué | 2015–2018_  
+- Curaduría de contenidos, edición y coordinación editorial  
+- Gestión de comunicación entre áreas (autores, diseño, ventas)
 
-    ANALISTA DE SISTEMAS
-    Profesional independiente (2022-2024)
-        Consultorías y asesoramiento en estrategias de marketing digital, incluyendo SEO.
-        Diseño e implementación de soluciones técnicas y metodologías de trabajo.
-        Colaboración con equipos multidisciplinarios para la optimización de procesos.
+---
 
-    CONSULTORA DE MARKETING DIGITAL & UX WRITER
-    Profesional independiente (2020-2024)
-        Creación y optimización de contenidos, diseño de storytelling, y elaboración de guías de voz y tono.
-        Estrategias de posicionamiento SEO y manejo de herramientas como Google Analytics, Search Console, y Tag Manager.
+## 🛠️ Herramientas y Tecnologías
 
-    ASISTENTE DE EDICIÓN
-    Editorial Maipué (2015-2018)
-        Co-desarrollo de colecciones de libros de texto para primaria y secundaria.
-        Planificación, comunicación, y asistencia a autores, diseñadores, y departamento de ventas.
-        Revisión y corrección orto-tipográfica y de estilo.
+| Comunicación Digital | Desarrollo Web | Lenguajes & Otros |
+|----------------------|----------------|-------------------|
+| UX Writing, SEO, GA, GSC, Tag Manager, Meta Business | HTML5, CSS3, JavaScript, React, Git, Figma | Java, MySQL |
+
+---
 
 
-### 🛠️ 04. HERRAMIENTAS Y TECNOLOGÍAS
+## 🤝 ¿Colaboramos?
 
-        Metodologías Ágiles
-        Diseño Gráfico: Figma, Canva, Illustrator, Photoshop
-        SEO y Marketing Digital: Google Analytics, Google Search Console, Google Tag Manager, Meta Business, Google Ads
-        Desarrollo Web: HTML, CSS, Java, JavaScript, React, MySQL, JQuery, Maven, Git
-        PLN: Python, Jupyter, Pandas, Numpy, y NLTK
+Estoy abierta a oportunidades como:
+- Desarrolladora web junior (front-end)
+- Especialista en comunicación digital, UX writing o contenido técnico
+- Roles híbridos con foco en tecnología, diseño y escritura
 
-No dudes en contactarme para colaboraciones, consultas o simplemente para charlar. ¡Nos vemos por Discord!
+📬 **Contacto:** [LinkedIn](https://www.linkedin.com/in/noelia-abraham/) · noe.abraham@gmail.com
+
+No dudes en contactarme para colaboraciones, consultas o simplemente para charlar. 
 
 📧 Correo: noeliasabraham@gmail.com
 📍 Ubicación: Caballito, CABA, Argentina
-📧Linkedin: https://www.linkedin.com/in/noelia-abraham/
+📧Linkedin: [https://www.linkedin.com/in/noelia-abraham/]
 
 
 
